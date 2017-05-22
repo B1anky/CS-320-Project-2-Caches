@@ -1,7 +1,0 @@
-Brett Sackstein
-bsackst1
-00458114
-
-Everything works. Diff'd all three traces and had complete matches. The hardest part
-of the project was probably the concept of the prefetching since it wasn't gone over
-in detail as much as the hot and cold estimation replacement policy.
